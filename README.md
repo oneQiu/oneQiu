@@ -19,8 +19,6 @@
 
 </div>
 
----
-
 ## 关于我
 
 - 🔭 正在关注：**AI 应用、Web 工程、效率工具、开发者体验**
@@ -29,8 +27,6 @@
 - 💬 可以聊聊：**前端、全栈、AI 工具、项目想法、学习路线**
 - 📫 联系方式：**qq982516861@gmail.com**
 - 🌐 个人主页：**https://oneqiu.com**
-
----
 
 ## 技术栈
 
@@ -46,7 +42,6 @@
 
 </div>
 
----
 
 ## GitHub 数据
 
@@ -57,13 +52,6 @@
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=oneQiu&theme=tokyonight&hide_border=true&locale=zh_Hans)
-
-</div>
-
----
 
 ## 近期活动
 
@@ -73,7 +61,6 @@
 
 </div>
 
----
 
 ## 精选项目
 
@@ -81,7 +68,6 @@
 |---|---|---|
 | **-** | - | TypeScript, Next.js, AI |
 
----
 
 ## 最近在做
 
