@@ -27,8 +27,8 @@
 - 🌱 正在学习：**大模型应用开发、系统设计、全栈工程化**
 - 🧩 喜欢探索：**自动化、开源项目、产品原型、技术写作**
 - 💬 可以聊聊：**前端、全栈、AI 工具、项目想法、学习路线**
-- 📫 联系方式：**your-email@example.com**
-- 🌐 个人主页：**https://your-site.com**
+- 📫 联系方式：**qq982516861@gmail.com**
+- 🌐 个人主页：**https://oneqiu.com**
 
 ---
 
@@ -40,12 +40,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue-42B883?style=for-the-badge&logo=vuedotjs&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 
 </div>
 
@@ -68,16 +65,6 @@
 
 ---
 
-## GitHub 奖杯
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=oneQiu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
-
-</div>
-
----
-
 ## 近期活动
 
 <div align="center">
@@ -92,10 +79,7 @@
 
 | 项目 | 简介 | 技术 |
 |---|---|---|
-| **AI Tool Demo** | 一个探索 AI 能力边界的小工具。 | TypeScript, Next.js, AI |
-| **Web App Starter** | 快速启动现代 Web 项目的模板。 | React, Tailwind CSS |
-| **Automation Scripts** | 用来提升日常效率的自动化脚本集合。 | Python, Node.js |
-| **Learning Notes** | 技术学习、项目复盘和实践笔记。 | Markdown |
+| **-** | - | TypeScript, Next.js, AI |
 
 ---
 
