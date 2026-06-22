@@ -1,6 +1,3 @@
-当然，QiuQiu。下面是一份中文美化版 GitHub 首页 `README.md`，把 `YOUR_GITHUB_USERNAME` 替换成你的 GitHub 用户名即可。
-
-```md
 <div align="center">
 
 # 你好，我是 QiuQiu 👋
@@ -105,4 +102,3 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue)
 
 </div>
-```
